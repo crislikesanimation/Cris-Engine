@@ -18,11 +18,11 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 > Uh oh! Your tryin to kiss ur hot girlfriend, but her MEAN and EVIL dad is trying to KILL you! He's an ex-rockstar, the only way to get to his heart? The power of music... 
 
 ## Kade Engine
-**Kade Engine** is a mod for Friday Night Funkin', including a full engine rework, replays, and more.
+**Cris-Engine** is a engine lol what do you think? its a mod? and its for Friday Night Funkin', including a partial engine rework, as you know with kade lmao alsp theres replays and more.
 
 Links: **[GameBanana mod page](https://gamebanana.com/gamefiles/16761) ⋅ [play in browser](https://funkin.puyo.xyz) ⋅ [latest stable release](https://github.com/KadeDev/Kade-Engine/releases/latest) ⋅ [latest development build (windows)](https://ci.appveyor.com/project/KadeDev/kade-engine-windows/branch/master/artifacts) ⋅ [latest development build (macOS)](https://ci.appveyor.com/project/KadeDev/kade-engine-macos/branch/master/artifacts) ⋅ [latest development build (linux)](https://ci.appveyor.com/project/KadeDev/kade-engine-linux/branch/master/artifacts)**
 
-**REMEMBER**: This is a **mod**. This is not the vanilla game and should be treated as a **modification**. This is not and probably will never be official, so don't get confused.
+**REMEMBER**: This is a **ENGINE**. This is not the vanilla game and should be treated as a **ENGINE**. This is not and probably will never be official unless ninjamuffin thinks im good at coding lol but don't get confused.
 
 ## Website ([KadeDev.github.io/kade-engine/](https://KadeDev.github.io/Kade-Engine/))
 If you're looking for documentation, changelogs, or guides, you can find those on the Kade Engine website.
