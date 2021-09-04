@@ -84,3 +84,4 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 - [Puyo](https://github.com/puyoxyz) - Setting up appveyor and a lot of other help UR AWESOME
 - [Smokey](https://github.com/Smokey555) - telling me that I should do the tricky asset loading lol
 - [Poco](https://github.com/poco0317) - math degree (aka most of the fucking math in this project) A.
+- [Pacca](https://twitter.com/Satyr8024?s=09) - made the logo!
