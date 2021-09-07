@@ -6,7 +6,7 @@
 
 ### If your pull request changes the engine, it merges into MASTER. lollol 
 ### as u know i just embarassed myself for LITERALLY EDITING A KADE FILE NOT MY FILE A
-### anyways if u contribute ty and also dont be lazy and add ont hing be like no more contributing and it crashes the whole engine like please?
+### anyways if u contribute ty and also dont be lazy and add one thing be like no more contributing and it crashes the whole engine like please?
 ### If your pull request changes the website, it merges into STABLE.
 
 sussy
